@@ -1,0 +1,10 @@
+ambiziosa,2.79
+decisa,2.88
+competitiva,2.71
+determinata,2.73
+dominante,2.76
+indipendente,2.65
+autonoma,2.76
+combattiva,2.55
+capace,2.45
+risoluta,2.48

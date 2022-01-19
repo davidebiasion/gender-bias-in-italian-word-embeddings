@@ -1,0 +1,10 @@
+ambizioso,2.79
+deciso,2.88
+competitivo,2.71
+determinato,2.73
+dominante,2.76
+indipendente,2.65
+autonomo,2.76
+combattivo,2.55
+capace,2.45
+risoluto,2.48
