@@ -1,0 +1,10 @@
+altruista,altruista,-1.18,2.50
+amichevole,amichevole,0.15,2.23
+disponibile,disponibile,-0.42,2.76
+onesto,onesta,-0.71,2.34
+leale,leale,-0.88,2.28
+affidabile,affidabile,0.45,2.21
+socievole,socievole,0.66,2.71
+empatico,empatica,-0.53,2.21
+tollerante,tollerante,-0.34,2.63
+comprensivo,comprensiva,-0.37,2.45

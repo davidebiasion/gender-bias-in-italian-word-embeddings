@@ -1,0 +1,10 @@
+ambizioso,ambiziosa,2.79
+deciso,decisa,2.88
+competitivo,competitiva,2.71
+determinato,determinata,2.73
+dominante,dominante,2.76
+indipendente,indipendente,2.65
+autonomo,autonoma,2.76
+combattivo,combattiva,2.55
+capace,capace,2.45
+risoluto,risoluta,2.48
