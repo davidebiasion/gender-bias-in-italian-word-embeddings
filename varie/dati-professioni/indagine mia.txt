@@ -1,0 +1,107 @@
+/**********************************************************************************************************************************************/
+Dati su professioni tipicamente femminili secondo (tabella 3): http://bancadati.italialavoro.it/bdds/download?fileName=C_21_Strumento_3433_documenti_itemName_1_documento.pdf&uid=443185f2-330c-4603-bf07-c65950c4d186
+/**********************************************************************************************************************************************/
+
+- Addetti nel settore tessile - abbigliamento
+fonte: https://www.ares20.it/pdf/societa_lavoro/occupazione_femminile_nel_tessile_abbigliamento_italiano.pdf
+Numero di occupati (dipendenti e indipendenti), di cui donne, per settore economico
+SETTORE,PERCENTUALE DONNA
+tessile,48.5
+confezioni,71.4
+calzature pelli e cuoio,48.5
+
+- Specialisti e tecnici delle scienze biologiche e mediche
+fonte: https://www.diversity-management.it/2018/06/06/donne-medico-crescita-primari-ancora-prevalenza-uomini/
+ISCRITTI ALL’ORDINE DEI MEDICI 2018 – FONTE FNOMCeO
+medico,43
+CGIL Medici
+primario,15
+fonte: https://www.lastampa.it/salute/2019/03/08/news/giovani-medici-le-donne-sono-il-doppio-degli-uomini-specie-fra-chirurghi-e-dentisti-1.33686314?refresh_ce
+medico,43.7
+dentista,35.2
+
+- Specialisti e tecnici delle scienze umane e della formazione (--> insegnanti???)
+fonte: https://www.tuttoscuola.com/la-mappa-del-rapporto-genere-cattedra/
+docenti statali di ruolo (2016-17 Elaborazione Tuttoscuola su dati Miur)
+totale,82.7
+scuola primaria,96.4
+scuola secondaria 1 grado,78.1
+scuola secodaria 2 grado,65.7
+dirigente scolastico,66.2
+
+- Addetti alla gestione operativa dell’impresa
+fonte: http://www.bollettinoadapt.it/old/files/document/18260cerved_managerit.PDF
+presenza di donne tra gli amministratori delle società italiane (2011),14.5
+
+- Addetti alla ristorazione
+fonte: https://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjSuMKagdvoAhWTO8AKHZA1DsUQFjABegQIChAD&url=https%3A%2F%2Fwww.fipe.it%2Fcentro-studi%2Fcentro-studi-2011.html%3Fdownload%3D196%3Anota-informativa-il-lavoro-delle-donne-focus-sulla-ristorazione&usg=AOvVaw3lWBsvu3ZyMhaFPe_QD1SH
+Imprese a gestione femminile nelle attività di ristorazione per tipologia e forma giuridica valori assoluti e valori % - febbraio 2011 (elaborazione Centro Studi Fipe su dati Cerved)
+ristoranti,52
+bar,56.5
+mense e catering,50.7
+Pubblici esercizi - Lavoratori dipendenti per comparto e sesso (media 2008 - valori %) (Fonte: elaborazione Centro Studi Fipe su dati Inps)
+bar,61.1
+ristoranti,51.4
+fornitura di pasti preparati,70.2
+mense,79.8
+
+- Addetti alla vendita e assistenza clienti
+non ancora trovato
+
+
+/**********************************************************************************************************************************************/
+fonte: rapporto 2017 libere professioni, http://www.confprofessioni.eu/sites/default/files/rapporto_2017_libere_professioni.pdf
+Numerosità delle professioni complessiva, per genere e incidenza della componente maschile e femminile
+/**********************************************************************************************************************************************/
+avvocato,47.2
+medico,37.4
+specialista delle scienze gestionali commerciali e bancarie,32.2
+architetto,35.3
+agente di commercio,11.8
+tecnici in campo ingegneristico,12
+ingegnere,16.4
+addetto alla gestione amministrativa contabile e finanziaria,25.1
+professioni sanitarie infermieristiche ostetriche riabilitative e di assistenza sociale,57.5
+tecnici della distribuzione commerciale e professioni assimilate,20.8
+tecnici dell’organizzazione e dell’amministrazione delle attività produttive,45.1
+specialisti in scienze psicologiche e psicoterapeutiche,78.6
+specialisti in discipline artistico-espressive,34
+specialisti e tecnici in scienze informatiche,11.2
+altre professioni legate alla produzione,14.5
+professioni tecniche in campo scientifico ingegneristico e della produzione,21.4
+professioni qualificate nelle attività turistiche ricettive e della ristorazione,50.6
+specialisti dell'educazione e della formazione,57.2
+specialisti e tecnici in scienze matematiche chimiche fisiche e naturali e sociali,28.8
+insegnanti nella formazione professionale istruttori allenatori atleti e professioni assimilate,30.9
+imprenditori amministratori e dirigenti aziendali,20.8
+giornalista,45.3
+veterinario,59.2
+specialisti in discipline linguistiche letterarie e documentali,59.4
+professioni qualificate nei servizi culturali di sicurezza di pulizia e alla persona,71.4
+professioni qualificate nelle attività commerciali,35.6
+specialisti e tecnici agronomi e forestali,11.7
+geologi meteorologi geofisici e professioni assimilate,12.9
+biologi botanici zoologi e professioni assimilate,68.8
+notaio,30.2
+
+
+/**********************************************************************************************************************************************/
+fonte: 2 rapporto professioni 2018, http://www.cuprofessioni.it/2%C2%B0_Rapporto_Professioni_2018.pdf
+percentuali di iscritti agli albi donna (2016)
+/**********************************************************************************************************************************************/
+PROFESSIONE,PERCENTUALE DONNA
+ostetrica,98.3
+assistente sociale,93.1
+psicologo,82.9
+infermiere,77
+biologo,76
+avvocato,47.2
+consulente del lavoro,45.8
+veterinario,44.6
+radiologo,43.6
+attuario,42
+giornalista,39
+notaio,33.6
+commercialista,31.8
+agrotecnico,14.5
+spedizioniere doganale,11.2

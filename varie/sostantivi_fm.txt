@@ -1,0 +1,14 @@
+amico,amica
+bambino,bambina
+cugino,cugina
+fidanzato,fidanzata
+figlio,figlia
+gatto,gatta
+nonno,nonna
+ragazzo,ragazza
+signore,signora
+suocero,suocera
+zio,zia
+compagno,compagna
+segretario,segretaria
+cavallo,cavalla

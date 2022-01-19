@@ -1,0 +1,85 @@
+Fonte: https://www.lavoro.gov.it/documenti-e-norme/normative/Documents/2019/Decreto-interministeriale-n-371-del-25-novembre-2019.pdf
+Categoria		%Uomo	%Donna
+
+74			98,4	1,6
+Camionista
+Autista
+Macchinista
+
+92			98,3	1,7
+Maresciallo
+Sergente
+
+61			97,7	2,3
+Minatore
+Muratore	
+Carpentiere
+Imbianchino
+
+
+62			97,1	2,9
+Elettricista
+Fabbro
+Saldatore
+
+93			95	5
+Militare
+Soldato
+
+91			94,8	5,2
+Generale
+Colonnello
+
+64			84,7	15,3
+Contadino
+Pescatore
+Allevatore
+
+12			83,1	16,9
+Imprenditore
+Amministratore
+Direttore
+
+22			82	18
+Ingegnere 
+Architetto
+
+13			77,3	22,7	
+Titolare
+Negoziante
+
+21			75,5	24,5
+Scienziato
+Ricercatore 
+Fisico
+Chimico
+Matematico
+Informatico
+Geologo
+
+63			74,4	25,6
+Tipografo
+Intarsiatore
+Vasaio
+
+72			69,6	30,4
+Operaio 
+
+65			61	39
+Macellaio
+Panettiere
+Pasticciere
+Gelataio
+Casaro
+Tessitore
+Sarto
+Calzolaio
+
+24			55,9	44,1
+Medico
+Dottore
+Fisioterapista
+Farmacista
+Nutrizionista
+Dentista 
+Dietologo

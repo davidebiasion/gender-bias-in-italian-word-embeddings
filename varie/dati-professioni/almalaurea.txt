@@ -1,0 +1,151 @@
+fonte: https://www2.almalaurea.it/cgi-php/universita/statistiche/tendine.php?LANG=it&config=profilo
+
+
+DIETISTA:
+
+roma sapienza
+laureati 2018: 	54.5
+laureati 2017: 	81.3
+laureati 2016: 	60.0
+media:			67.6
+
+napoli federico ii
+laureati 2018: 	66.7
+laureati 2017: 	76.5
+laureati 2016: 	78.6
+media:			73.9
+
+torino
+laureati 2018: 	80.0
+laureati 2017: 	86.7
+laureati 2016: 	87.5
+media:			84.7
+
+bologna
+laureati 2018: 	63.6
+laureati 2017: 	50.0
+laureati 2016: 	100.0
+media:			71.8
+
+milano
+laureati 2018: 	84.0
+laureati 2017: 	73.5
+laureati 2016: 	73.9
+media:			76.8
+
+padova
+laureati 2018: 	70.5
+laureati 2017: 	92.3
+laureati 2016: 	93.3
+media:			84.4
+
+--------------------
+MEDIA ATENEI:	76.5
+
+
+IGIENISTA:
+
+roma sapienza
+laureati 2018: 	71.7
+laureati 2017: 	77.0
+laureati 2016: 	61.8
+media:			70.2
+					
+bologna
+laureati 2018: 	92.9
+laureati 2017: 	70.6
+laureati 2016: 	70.6
+media:			78.0
+
+milano
+laureati 2018: 	80.8
+laureati 2017: 	63.3
+laureati 2016: 	75.0
+media:			73.0
+
+--------------------
+MEDIA ATENEI:	73.7
+
+
+BIOLOGO:
+
+roma sapienza
+laureati 2018: 	55.6
+laureati 2017: 	87.5
+laureati 2016: 	81.8
+media:			75.0
+
+napoli federico ii
+laureati 2018: 	80.9
+laureati 2017: 	82.2
+laureati 2016: 	82.2
+media:			81.8
+
+torino
+laureati 2018: 	73.1
+laureati 2017: 	75.3
+laureati 2016: 	67.0
+media:			71.8
+
+bologna
+laureati 2018: 	50.0
+laureati 2017: 	61.2
+laureati 2016: 	61.8
+media:			57.7
+
+milano
+laureati 2018:	69.8	
+laureati 2017: 	79.2
+laureati 2016: 	70.7
+media:			73.27
+
+padova
+laureati 2018: 	74.2
+laureati 2017: 	63.2
+laureati 2016: 	69.9
+media:			69.1
+
+--------------------
+MEDIA ATENEI:	71.9
+
+
+ZOOLOGO:
+
+roma sapienza
+laureati 2018: 	38.5
+laureati 2017: 	87.5
+laureati 2016: 	81.8
+media:			75.0
+
+napoli federico ii
+laureati 2018: 	80.9
+laureati 2017: 	82.2
+laureati 2016: 	82.2
+media:			81.8
+
+torino
+laureati 2018: 	73.1
+laureati 2017: 	75.3
+laureati 2016: 	67.0
+media:			71.8
+
+bologna
+laureati 2018: 	50.0
+laureati 2017: 	61.2
+laureati 2016: 	61.8
+media:			57.7
+
+milano
+laureati 2018:	69.8	
+laureati 2017: 	79.2
+laureati 2016: 	70.7
+media:			73.2
+
+padova
+laureati 2018: 	74.2
+laureati 2017: 	63.2
+laureati 2016: 	69.9
+media:			69.1
+
+--------------------
+MEDIA ATENEI:	71.9
